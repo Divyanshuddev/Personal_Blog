@@ -13,7 +13,7 @@ I'm excited to share my new Personal Blog Website—a space where I share insigh
   👉 [https://github.com/Divyanshuddev/Personal_Blog](https://github.com/Divyanshuddev/Personal_Blog)
 
 - **Live Website:**  
-  👉 [https://personal-blog-23kk.vercel.app/](https://personal-blog-23kk.vercel.app/)
+  👉 [https://personal-blog-23kk.vercel.app/](https://personal-blog-cljv.vercel.app/)
 
 ---
 
