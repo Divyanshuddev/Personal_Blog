@@ -47,4 +47,52 @@ export default tseslint.config({
     ...react.configs['jsx-runtime'].rules,
   },
 })
+
+# Personal Blog
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Vercel Status](https://api.vercel.com/api/projects/vercel-project-id/badge)](https://vercel.com)
+
+Personal Blog is a modern, responsive website built with React, TypeScript, and Vite. This project serves as a platform to share blogs, news, podcasts, and resources in an engaging format. The site is optimized for performance and deployed on Vercel.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Development](#development)
+- [Deployment](#deployment)
+- [Troubleshooting](#troubleshooting)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Overview
+
+The Personal Blog project provides a space to publish articles, share personal insights, and highlight news and podcasts. With an emphasis on a clean UI and fast performance, the project leverages modern web technologies to deliver an engaging user experience on both desktop and mobile devices.
+
+## Features
+
+- **Responsive Design:** Optimized for various devices including desktops, tablets, and smartphones.
+- **Dynamic Navigation:** Smooth navigation using React Router and Material UI components.
+- **Type Safety:** Developed using TypeScript to minimize runtime errors and enhance code quality.
+- **Fast Build Times:** Powered by Vite for rapid development and build processes.
+- **Modern UI Components:** Utilizes Material UI for an attractive and consistent design.
+
+## Technologies Used
+
+- **React:** For building a dynamic user interface.
+- **TypeScript:** For enhanced code quality and maintainability.
+- **Vite:** As the build tool for fast and optimized development.
+- **Material UI:** For pre-built, customizable UI components.
+- **Vercel:** For seamless and scalable deployment.
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Divyanshuddev/Personal_Blog.git
+   cd Personal_Blog
+
 ```
