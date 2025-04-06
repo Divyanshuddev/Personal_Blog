@@ -1,5 +1,5 @@
 import { AppBar, Button, IconButton, Menu, MenuItem, Stack, ToggleButton, ToggleButtonGroup, Toolbar, Typography } from '@mui/material'
-import React, { MouseEvent, useState } from 'react'
+import  React, { MouseEvent, useState } from 'react'
 import MenuIcon from '@mui/icons-material/Menu';
 import { useNavigate } from 'react-router-dom';
 const styles = {
@@ -55,9 +55,14 @@ const NavBar = () => {
     const closeMenu = () => {
         setAnchorNav(null)
     }
-    const handleChange = ( newAlignment: string,) => {
-        setAlignment(newAlignment);
-    };
+    const handleChange = (
+        event: React.MouseEvent<HTMLElement>,
+        newAlignment: string | null
+      ) => {
+        if (newAlignment !== null) {
+          setAlignment(newAlignment);
+        }
+      };
     return (
         <AppBar position='static' sx={styles.appBar} elevation={0}>
             <Toolbar>
