@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+      { "source": "/", "destination": "/" },
+      { "source": "/news", "destination": "/" },
+      { "source": "/blog", "destination": "/" },
+      { "source": "/podcast", "destination": "/" },
+      { "source": "/resources", "destination": "/" },
+      { "source": "/contact", "destination": "/" },
+      { "source": "/(.*)", "destination": "/" }
+    ]
+  }
+  
