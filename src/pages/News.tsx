@@ -1,4 +1,3 @@
-import React from 'react'
 import NavBar from '../components/NavBar'
 import HeroSection from '../components/News/NewsHeroSection/HeroSection'
 import NewsSection from '../components/News/NewsHeroSection/NewsSection'

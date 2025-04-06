@@ -39,7 +39,6 @@ const PodcastVideoBox: React.FC<PodcastVideoBoxProps> = ({ poster, topic, detail
                     component="video"
                     height="480"
                     image={v1}
-                    alt="Sample video"
                     poster={poster}
                     controls
                     autoPlay

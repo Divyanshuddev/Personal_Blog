@@ -55,7 +55,7 @@ const NavBar = () => {
     const closeMenu = () => {
         setAnchorNav(null)
     }
-    const handleChange = (event: React.MouseEvent<HTMLElement>, newAlignment: string,) => {
+    const handleChange = ( newAlignment: string,) => {
         setAlignment(newAlignment);
     };
     return (

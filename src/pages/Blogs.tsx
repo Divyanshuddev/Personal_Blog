@@ -1,4 +1,4 @@
-import React from 'react'
+
 import NavBar from '../components/NavBar'
 import BlogHeader from '../components/Blogs/BlogHeader'
 import BlogDetails from '../components/Blogs/BlogDetails'
