@@ -1,5 +1,4 @@
 import { Stack, Typography } from '@mui/material'
-import React from 'react'
 import CommonButton from '../Explore/CommonButton'
 import MultiNews from '../News/NewsHeroSection/MultiNews'
 

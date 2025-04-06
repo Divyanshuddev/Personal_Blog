@@ -1,9 +1,7 @@
 import { Avatar, Button, Stack, Typography } from '@mui/material'
-import React from 'react'
 import NorthEastIcon from '@mui/icons-material/NorthEast';
 const styles = {
     root: {
-        // border: "0.1px solid gray",
         backgroundColor:"black !important",
         padding: 13.4
     },

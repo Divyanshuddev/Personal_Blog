@@ -1,5 +1,4 @@
 import { Box, Stack, Typography } from '@mui/material'
-import React from 'react'
 import logo from '../../assets/ContactLogo.svg'
 const styles={
     root:{

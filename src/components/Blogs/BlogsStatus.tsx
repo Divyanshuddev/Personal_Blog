@@ -1,5 +1,4 @@
 import { Chip, Stack } from '@mui/material'
-import React from 'react'
 import SendOutlinedIcon from '@mui/icons-material/SendOutlined';
 import FavoriteBorderOutlinedIcon from '@mui/icons-material/FavoriteBorderOutlined';
 import ModeCommentOutlinedIcon from '@mui/icons-material/ModeCommentOutlined';

@@ -1,5 +1,4 @@
 import { Stack } from '@mui/material'
-import React from 'react'
 import FeaturesHeader from './FeaturesHeader'
 import FeaturesScope from './FeaturesScope'
 

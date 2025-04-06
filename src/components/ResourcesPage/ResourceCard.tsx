@@ -3,11 +3,7 @@ import React from 'react'
 import ResourceCardTitle from './ResourceCardTitle'
 import ResourcesCardContent from './ResourcesCardContent'
 
-const styles={
-    root:{
-        
-    }
-}
+
 type cardsData={
     title:string;
     value:string

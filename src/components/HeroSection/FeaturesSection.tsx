@@ -5,7 +5,6 @@ const styles = {
     root: {
         padding: 4,
         backgroundColor:"black !important",
-        // border: "0.1px solid gray"
     },
     titleStyle: {
         color: "white",

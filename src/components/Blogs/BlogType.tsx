@@ -1,5 +1,4 @@
 import { Grid2, List, ListItem, ListItemText, Stack, Typography,  } from '@mui/material'
-import React from 'react'
 
 const styles={
     root:{

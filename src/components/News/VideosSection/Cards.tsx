@@ -34,7 +34,6 @@ const Cards: React.FC<CardsProps> = ({ data }) => {
                 component="video"
                 height="240"
                 image={v1}
-                alt="Sample video"
                 poster={data.poster}
                 controls
                 autoPlay

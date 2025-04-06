@@ -9,7 +9,6 @@ const styles = {
             sm:2,
             xs:2
         },
-        // border: "0.01px solid gray",
         backgroundColor:"black !important",
         width: "34%"
     },

@@ -1,5 +1,4 @@
 import { Accordion, AccordionDetails, AccordionSummary, Stack, Typography } from '@mui/material'
-import React from 'react'
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 
 const styles = {

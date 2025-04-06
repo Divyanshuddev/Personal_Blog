@@ -1,5 +1,4 @@
 import { Divider, Grid2, Stack, } from '@mui/material'
-import React from 'react'
 import BlogTitleContainer from './BlogTitleContainer'
 import BlogStatus from './BlogStatus'
 import ExploreSection from './ExploreSection'

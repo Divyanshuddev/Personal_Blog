@@ -1,5 +1,4 @@
 import { Box, Grid2, Stack, Typography } from '@mui/material'
-import React from 'react'
 import logo from '../../assets/logo.png'
 import RevolutionCard from './RevolutionCard'
 const styles = {

@@ -1,5 +1,4 @@
 import { Stack } from '@mui/material'
-import React from 'react'
 import CommonHeader from '../CommonHeader'
 import TestimonialsSection from './TestimonialsSection'
 

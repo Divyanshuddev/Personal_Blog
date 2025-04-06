@@ -1,5 +1,4 @@
 import { Button, Grid2, Stack, Typography } from '@mui/material'
-import React from 'react'
 import ArrowOutwardIcon from '@mui/icons-material/ArrowOutward';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';

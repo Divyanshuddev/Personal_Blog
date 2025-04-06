@@ -1,5 +1,4 @@
 import { Grid2 } from '@mui/material'
-import React from 'react'
 import Cards from './Cards'
 const styles = {
     root: {

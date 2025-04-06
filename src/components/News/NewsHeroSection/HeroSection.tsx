@@ -1,5 +1,4 @@
 import { Divider, Stack, Typography } from '@mui/material'
-import React from 'react'
 
 const styles={
     root:{
