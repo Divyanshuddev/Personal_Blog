@@ -61,6 +61,7 @@ const NavBar = () => {
       ) => {
         if (newAlignment !== null) {
           setAlignment(newAlignment);
+          console.log(event.currentTarget)
         }
       };
     return (
